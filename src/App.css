@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+.header{
+  font-weight: 500;
+  font-size: 2rem;
+  border: 2px solid;
+  background-color: #c02929;
+  color: white;
+  text-align: center;
+
+}
